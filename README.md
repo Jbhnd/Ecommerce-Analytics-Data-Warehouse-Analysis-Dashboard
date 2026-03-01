@@ -97,7 +97,7 @@ The Tableau dashboard tracks:
 * **Order Cancellation Analysis** by state and city
 * **Interactive filters** for date, customer state, and city
 
-*(Include `tableau_dashboard_screenshot.png` here)*
+[Dashboard Screenshot](./dashboard/ecommerce_analysis_dashboard.png)
 
 ---
 
