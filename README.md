@@ -40,7 +40,7 @@ Granularity of the main fact table is defined at the **order-item level**, enabl
 
 Indexes were added on foreign keys to optimize join performance.
 
-(star_schema_diagram.png)
+[Ecommerce Star Schema Diagram](./star_schema_diagram.png)
 
 ---
 
