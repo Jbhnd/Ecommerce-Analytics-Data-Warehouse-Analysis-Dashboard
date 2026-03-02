@@ -81,11 +81,11 @@ The Tableau dashboard tracks:
 
 ## Key Insights
 
-* **Revenue Growth:** Revenue increased **22% MoM in November**, driven primarily by Electronics and Home categories.
-* **Order Cancellations:** Cancellation rate is **2.4x higher for orders delivered after the shipping limit date**, highlighting operational bottlenecks.
-* **Customer Concentration:** Top 10% of customers account for ~35% of total revenue, suggesting high-value retention opportunities.
-* **Product Category Performance:** Products in the "Unknown" category have higher return rates and lower review scores, indicating potential product data quality issues.
-* **Top Performers:** Electronics and Fashion categories consistently drive the highest revenue per order and repeat purchases.
+* **Revenue:** November had the highest revenue driven by products in Watches_Gifts, Bed_bath_table, and Health_beauty categories.
+* **Order Cancellations:** One state(SP) makes up over 50% (52.31%) of total cancelled orders.
+* **Customer Concentration:** Customer concentration is limited, with Top 10 customers accounting for <1% total revenue.
+* **Product Category Performance:** Health_beauty, Watches_Gifts and Bed_Bath are highest revenue categories across all states.
+* **Customer Retention:** Avg order per customer is 1, indicating opportunities for improvement in customer retention.
 
 ---
 
