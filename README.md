@@ -1,4 +1,4 @@
-# Ecommerce Analytics and BI Dashboard
+# Ecommerce_Analytics_Pipeline: From Raw Data To Performance Analytics and Business Insights
 ### Project Overview
 
 This project demonstrates the design and implementation of an end-to-end ecommerce analytics solution, including data modeling, transformation, and business intelligence reporting.
